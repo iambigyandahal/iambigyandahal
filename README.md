@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mebigyan1/mebigyan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iambigyandahal/iambigyandahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Social Profiles**
+- Facebook: https://facebook.com/iambigyandahal
+- Twitter: https://twitter.com/iambigyandahal
+- Linkedin: https://linkedin.com/in/iambigyandahal
+- Instagram: https://instagram.com/iambigyandahal
