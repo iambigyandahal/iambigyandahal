@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Social Media Profiles**
+## Social Media Profiles
 - Facebook: https://facebook.com/iambigyandahal
 - Twitter: https://twitter.com/iambigyandahal
 - Linkedin: https://linkedin.com/in/iambigyandahal
 - Instagram: https://instagram.com/iambigyandahal
 
-**OpenPGP**
+## OpenPGP
 - Public Key: `gpg --keyserver hkps://keys.openpgp.org --recv-keys 0xB05224FB8DFFB20B`
 - Fingerprint: `41BE 07A7 FC1B E181 626D  2341 B052 24FB 8DFF B20B`
