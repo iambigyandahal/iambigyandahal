@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Instagram: https://instagram.com/iambigyandahal
 
 ## Email
-[ProtonMail](mailto:iambigyandahal@pm.me)
+[iambigyandahal@pm.me](mailto:iambigyandahal@pm.me)
 
 ## OpenPGP
 - Public Key: `gpg --keyserver hkps://keys.openpgp.org --recv-keys 0xB05224FB8DFFB20B`
