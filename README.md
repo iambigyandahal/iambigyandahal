@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Instagram: https://instagram.com/iambigyandahal
 
 ## Email
-[iambigyandahal@pm.me](mailto:iambigyandahal@pm.me)
+[iambigyandahal@gmail.com](mailto:iambigyandahal@gmail.com)
 
 ## OpenPGP
 - Public Key: `gpg --keyserver hkps://keys.openpgp.org --recv-keys 0xB05224FB8DFFB20B`
