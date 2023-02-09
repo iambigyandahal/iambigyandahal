@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Social Media Profiles
-- Facebook: https://facebook.com/iambigyandahal
 - Twitter: https://twitter.com/iambigyandahal
 - Linkedin: https://linkedin.com/in/iambigyandahal
-- Instagram: https://instagram.com/iambigyandahal
