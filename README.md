@@ -2,7 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-Hi, I am Bigyan Dahal, a software engineer.
+I am a software engineer with expertise in Node.js, JavaScript, TypeScript and React.
 <!--
 - 🔭 I’m currently working on a private personal game project.
 - 🌱 Also exploring new technologies.
