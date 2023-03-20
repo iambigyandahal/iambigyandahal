@@ -36,7 +36,7 @@ Hi, I am Bigyan Dahal, a software engineer.
 </p>
 
 ---
-<!--
+
 ### ✍️ Blog Posts : 
-- [Open Source Contribution 101 Guide ft Pull Requests](https://zukijifukato.github.io/posts/open-source-contribution-101-guide-ft-pull-requests/)
--->
+- [How to create a password generator using JavaScript(Node.js)?](https://blog.bigyandahal.com/how-to-create-a-password-generator-using-javascriptnodejs/)
+
