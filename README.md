@@ -3,15 +3,10 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am a software engineer with expertise in Node.js, JavaScript, TypeScript and React.
-<!--
-- 🔭 I’m currently working on a private personal game project.
-- 🌱 Also exploring new technologies.
-- ⚡ In my free time I watch anime, donghua, movies, listen to music, read books, mangas, manhwas and manhuas.
--->
 
 ---
 
-### 🌐 Social Media Profiles :
+### 🌐 Let's Connect:
 - Twitter: https://twitter.com/iambigyandahal
 - Linkedin: https://linkedin.com/in/iambigyandahal
 
